@@ -1,0 +1,118 @@
+#body {
+    font-size: 16px;
+    color: #fff;
+    background-color:#951c49;
+    font-family: Phetsarath OT;
+}
+
+/**     Header   **/
+#header-nav {
+    background-color:rgb(244, 203, 2);
+    border-radius: 0;
+    border: 0;
+}
+
+#logo-img {
+    background: url(../img/restaurant-logo_large.png);
+    width: 150px;
+    height: 150px;
+    margin: 10px 15px 10px 0;
+}
+
+#navbar-brand {
+    padding-top: 25px;
+}
+
+#navbar-brand h1 { /** ຊື່ຮ້ານຫານ **/
+    
+    color: rgb(0, 255, 0);
+    font-size: 1.5rem;
+    text-transform:uppercase;
+    text-shadow: 1px 1px 1px #222;
+    font-weight: bold;
+    margin-bottom: 0;
+    line-height: .75;
+}
+
+.navbar-brand a:hover, .navbar-brand a:focus {
+    text-decoration: none;
+}
+
+.navbar-brand p {
+    color: #000;
+    text-transform: uppercase;
+    font-size: 1.7em;
+    margin-top: 15px;
+}
+
+.navbar-brand p span {
+    vertical-align: middle;
+}
+#m3 {
+    font-size: 30px;
+}
+#m4 {
+    font-size: 20px;
+}
+
+#nav-list {
+    margin-top: 10px;
+    font-size: 1.2rem;
+}
+
+#nav-list a {
+    color: #000000;
+    text-align: center;
+    text-decoration: none;
+}
+#nav-list a:hover {
+    background:#fff;
+}
+#nav-list a span{
+    font-size: 1.8rem;
+}
+
+
+
+/* footter */
+.panel-footer {
+margin-top: 30px;
+padding-top: 35px;
+padding-bottom: 25px;
+background-color: #222;
+border-top: 0;
+color: white;
+font-family:var(Phetsarath OT);
+}
+.panel-footer div.row {
+    margin-bottom: 35px;
+}
+
+#hours, #address {
+    line-height: 2;
+}
+#hours > span, #address > span {
+    font-size: 3em;
+}
+#address p{
+    color:#559c3e;
+    font-size: .8em;
+    line-height: 1.8;
+}
+#testimonilals {
+    font-size: italic;
+}
+#testimonials {
+margin-top: 25px;
+}
+#nav-link {
+    text-align: center;
+}
+#gmail{
+   text-decoration: underline;
+}
+#locatoin{
+    color: white;
+    text-decoration: none;
+    text-decoration: underline;
+}

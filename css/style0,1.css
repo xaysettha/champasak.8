@@ -1,0 +1,87 @@
+#body{
+    background-image: url(https://th.bing.com/th/id/R.49d7d956eb051d336e7f788f1b62eeb0?rik=7Xzxw%2bHhyNYiNQ&pid=ImgRaw&r=0);
+    background-repeat: no-repeat;
+    background-size: 150rem,50rem;
+    background-attachment: fixed;
+  background-position: center;
+    color: white;
+}
+#nav-list {
+    margin-top: 10px;
+    font-size: 1.2rem;
+}
+#nav-list a {
+    color: #000000;
+    text-align: center;
+    text-decoration: none;
+}
+.navbar{
+    background-image: url(/img/OIP.jpeg);
+}
+#button-nav{
+    margin-left:1rem;
+}
+#m5{
+    margin:auto;
+    margin-top: 70px;
+    margin-left:6rem ;
+    color: rgb(255, 255, 255);
+    text-shadow: #000000 3px 1px;
+    
+}
+.panel-footer {
+    margin-top: 30px;
+padding-top: 35px;
+padding-bottom: 25px;
+background-color: #222;
+border-top: 0;
+color: white;
+}
+.panel-footer div.row {
+    margin-bottom: 35px;
+}
+#hours, #address {
+    line-height: 2;
+}
+#hours > span, #address > span {
+    font-size: 15px;
+}
+#address p{
+    color:#559c3e;
+    line-height: 1.8;
+}
+#testimonilals {
+    font-size: italic;
+}
+#testimonials {
+margin-top: 25px;
+}
+#pt3{
+    height: 200px;
+    width: 200px;
+    margin-left: 6.5rem;
+    margin-top: 20px;
+    border: white solid;
+    border-radius: 15px;
+}
+#card-bg{
+    background-color: #222;
+    color:white;
+    border: white solid;
+    border-radius: 25px;
+}
+#co-l{
+background-color: #000000;
+}
+#pt2{
+    width: 150px;
+    height: 150px;
+    border: white solid .1px;
+    margin-top: 10px;
+    border-radius: 20px;
+}
+#text-p{
+    text-align: left;
+    text-align: justify;
+    text-indent: 50px;
+}
